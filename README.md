@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am an entry-level tech professional passionate a
 ---
 
 ### 📫 Let's Connect
-- **Email:** [inioluwabamgbose@gmail.com]
-- **LinkedIn:** [Insert LinkedIn Profile Link]
+- **Email:** [inioluwabamgbose.info@gmail.com]
+- **LinkedIn:** [[Insert LinkedIn Profile Link](https://www.linkedin.com/in/inioluwa-bamgbose]
 - **GitHub:** [hephzibdesigns-jpg](https://github.com/hephzibdesigns-jpg)
 - *Live Website:** https://cosmic-llama-8c869f.netlify.app/
