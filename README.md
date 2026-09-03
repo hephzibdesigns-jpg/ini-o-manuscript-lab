@@ -1,4 +1,4 @@
-# Hi there, I'm Inioluwa Bamgbose 👋
+# Hi there, I'm Inioluwa Bamgbose 
 
 Welcome to my GitHub profile! I am an entry-level tech professional passionate about **Cybersecurity, Network Safety, Web Design, and Remote AI/Tech Opportunities**.
 
@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I am an entry-level tech professional passionate a
 ---
 
 ### 📫 Let's Connect
-- **Email:** [Insert Email Address]
+- **Email:** [inioluwabamgbose@gmail.com]
 - **LinkedIn:** [Insert LinkedIn Profile Link]
 - **GitHub:** [hephzibdesigns-jpg](https://github.com/hephzibdesigns-jpg)
+- *Live Website:** https://cosmic-llama-8c869f.netlify.app/
